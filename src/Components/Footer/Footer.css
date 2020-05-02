@@ -1,0 +1,11 @@
+.Footer {
+    background-color: #343a40!important;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+.Footer a,
+.Footer a:hover {
+    color: #fff;
+}
